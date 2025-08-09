@@ -82,4 +82,4 @@ If you have more free API keys to share, feel free to submit a pull request. Let
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This repository is licensed under the MIT License. See the [LICENSE]([LICENSE](https://github.com/preatom360/LICENSE/blob/main/README.md)) file for more details.
